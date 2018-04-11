@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center;
+  background: url(../images/backgrounds/architecture.jpg);
   background-repeat: repeat;
   background-size: cover;
   background-attachment: fixed;
